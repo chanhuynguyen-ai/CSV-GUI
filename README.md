@@ -6,6 +6,9 @@ CSV-GUI là ứng dụng Desktop GUI bằng Python (Tkinter) dùng để mở, x
 
 Ứng dụng phù hợp cho các bài toán xử lý dữ liệu cơ bản, chỉnh sửa nhanh file CSV trong các dự án kỹ thuật, sinh viên, hoặc hệ thống nhúng xuất log dữ liệu.
 
+<img width="1152" height="829" alt="image" src="https://github.com/user-attachments/assets/2c072b12-bc5c-4a2b-9aaf-a29ef9a4cd32" />
+
+
 1. Chức năng chính
 1.1 Mở & hiển thị file CSV
 
@@ -63,14 +66,11 @@ Bước 1: Cài Python (>= 3.8)
 
 Bước 2: Cài thư viện cần thiết
 
-pip install pandas reportlab openpyxl
-
+`pip install pandas reportlab openpyxl`
 
 openpyxl dùng để xuất file Excel.
 
 5. Chạy chương trình
-python main.py
-
 
 (hoặc tên file bạn lưu code)
 
@@ -84,4 +84,3 @@ Công cụ chỉnh sửa CSV nhẹ, không cần Excel
 
 Ứng dụng desktop Python GUI mẫu
 
-<img width="1152" height="829" alt="image" src="https://github.com/user-attachments/assets/2c072b12-bc5c-4a2b-9aaf-a29ef9a4cd32" />
